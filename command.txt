@@ -1,0 +1,5 @@
+cd C:\HealthManagementSystem-main\HealthManagementSystem-main
+
+mvn clean install
+
+http://localhost:8080/MediCare-0.0.1-SNAPSHOT/
